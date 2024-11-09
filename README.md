@@ -95,5 +95,5 @@ src/ │ ├── components/ │ ├── Auth/ │ ├── Story/ │ ├�
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/storyverse.git
+git clone https://github.com/akku2005/Storytelling-website.git
 ```
