@@ -80,3 +80,20 @@ StoryVerse is an innovative web application designed for creative writers, story
 - React Icons
 
 ## 📦 Project Structure
+
+src/ │ ├── components/ │ ├── Auth/ │ ├── Story/ │ ├── Layout/ │ └── Common/ │ ├── pages/ │ ├── Auth/ │ ├── Stories/ │ ├── Profile/ │ └── Dashboard/ │ ├── context/ │ ├── AuthContext.js │ └── StoryContext.js │ ├── hooks/ │ ├── useAuth.js │ └── useStory.js │ ├── utils/ │ ├── validation.js │ └── helpers.js │ └── App.js
+
+## 🔐 Environment Setup
+
+### Prerequisites
+
+- Node.js (v14+)
+- npm or Yarn
+
+### Installation Steps
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/storyverse.git
+```
